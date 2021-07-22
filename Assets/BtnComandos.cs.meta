@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: c6d094c10be3754418ad37b7cb3cc11c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - panelSecuencia: {instanceID: 0}
+  - robot: {instanceID: 0}
+  - flecha: {instanceID: 0}
+  - botonDeModo: {instanceID: 0}
+  - botonIniciar: {instanceID: 0}
+  - botonBorrar: {instanceID: 0}
+  - botonDeshacer: {instanceID: 0}
+  - botonPausa: {instanceID: 0}
+  - listaDeSecuencia: {instanceID: 0}
+  - scroll: {instanceID: 0}
+  - panelAlfombras: {instanceID: 0}
+  - conexionBluetooth: {fileID: 6813496138741908494, guid: 8d38d498d35196d4d985e1599740ef49,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
